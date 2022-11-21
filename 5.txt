@@ -1,0 +1,6 @@
+To extract the contents of the web page, One of the way is transforming the webpage into the html format and then
+we can get the pictures in the web page by checking the img tags and its values. Content can be read by relevant 
+tags like heading, paragraph and divs tags etc;
+Another way is using the tools like ParseHub to extract the contents of the web page,
+outWitHub , Content Grabber etc;
+Using burpsuite tool in the kali linux is best way to extract the contents of the page as it is very secure.
